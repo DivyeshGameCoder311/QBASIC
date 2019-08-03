@@ -1,0 +1,5 @@
+DIM x AS INTEGER
+FOR x = 44 TO 50000
+    SOUND x, 0.1
+NEXT x
+

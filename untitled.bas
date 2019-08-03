@@ -1,0 +1,9 @@
+DIM x AS INTEGER
+DIM y AS INTEGER
+DIM z AS INTEGER
+INPUT "please enter x"; x
+PRINT x
+
+
+
+
